@@ -2,7 +2,7 @@
 
 ## Backend Architecture
 
-![Alt text](/public/architecture.png?raw=true "Optional Title")
+![Architecture](/public/architecture.png?raw=true)
 
 The system follows a microservices architecture with:
 
@@ -22,7 +22,6 @@ The application is divided into the following microservices:
 4. **Order Service** - Processes and tracks customer orders
 5. **Payment Service** - Handles corporate card transactions
 6. **Notification Service** - Sends real-time updates to users
-7. **Search Service** - Provides advanced search functionality
 
 ## Technology Stack
 
